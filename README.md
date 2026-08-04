@@ -7,7 +7,7 @@ A Machine Learning web application that predicts the outcome of a tennis match b
 ## 🚀 Live Demo
 
 🔗 **Streamlit App:**  
-https://tennis-match-prediction-akejk8szjrjechhcguvvbk.streamlit.app
+https://tennis-match-prediction-akejk8szjrjechhcguvwbk.streamlit.app/
 
 ---
 
